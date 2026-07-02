@@ -2,12 +2,13 @@
 <p align="center">Cloud & DevOps Enthusiast | AWS • Linux • Docker • Jenkins • CI/CD</p>
 
 <p align="center">
-  <img src="https://github.com/sameeralikhan2160-byte.png" width="150" style="border-radius:50%"/>
+  <img src="profile.jpeg" width="180" style="border-radius:50%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sameer-khan-9a6603249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sameeralikhan2160@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sameeralikhan2160-byte&color=blue"/>
 </p>
 
 ---
@@ -28,13 +29,12 @@ Cloud and DevOps enthusiast with hands-on experience in AWS cloud infrastructure
 ### 🧰 Technical Skills
 
 **Cloud (AWS)**
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-rds&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
-![Route53](https://img.shields.io/badge/Route53-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+
+*IAM • VPC • RDS • Route 53 • EBS • EFS • DynamoDB • Auto Scaling • Load Balancer*
 
 **DevOps & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -44,6 +44,7 @@ Cloud and DevOps enthusiast with hands-on experience in AWS cloud infrastructure
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_(learning)-9C9C9C?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
