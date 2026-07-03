@@ -59,6 +59,9 @@ Self-healing web tier using a custom AMI, Launch Template, and Auto Scaling Grou
 **Linux Automation & DevOps Administration**
 Cron-based backup automation with 7-day retention and log rotation, group-based access control, UFW firewall hardening, and a custom resource-monitoring script with email alerts for high CPU/low disk space.
 
+**[Jenkins Master-Slave (Distributed Build) Setup on AWS EC2](https://github.com/sameeralikhan2160-byte/jenkins-master-slave)**
+Provisioned two EC2 instances and configured a Jenkins master-agent architecture from scratch — installed Jenkins via the official repo, generated SSH keypairs for passwordless master↔slave authentication, registered the agent as a Jenkins node, and verified a Freestyle job executing remotely on the slave via console output.
+
 ---
 
 ### 📊 GitHub Stats
