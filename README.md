@@ -1,14 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm Sameer Ali Khan
+# Sameer Ali Khan
 
-### Cloud & DevOps Engineer
+### Cloud & DevOps Engineer — AWS | Linux | Jenkins | Docker
+
+Open to full-time Cloud Engineer / DevOps Engineer roles
+
+![Cloud/DevOps Roles](https://img.shields.io/badge/CLOUD%20%2F%20DEVOPS%20ENGINEER%20ROLES-7dd3fc?style=for-the-badge&logoColor=black)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-0ea5e9?style=for-the-badge&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sameeralikhan2160-byte&color=7dd3fc&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-khan-9a6603249)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameeralikhan2160@gmail.com)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Jenkins;Building+Scalable+Cloud+Infrastructure;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sameeralikhan2160-byte&color=7dd3fc&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/sameeralikhan2160-byte?color=7dd3fc&style=for-the-badge&label=Followers)
 
 </div>
