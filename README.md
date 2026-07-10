@@ -106,9 +106,6 @@ const sameerAliKhan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sameeralikhan2160-byte&show_icons=true&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7&icon_color=7aa2f7" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralikhan2160-byte&layout=compact&theme=tokyonight&border_color=7aa2f7&title_color=7aa2f7" width="48%" />
-
 <img src="https://streak-stats.demolab.com?user=sameeralikhan2160-byte&theme=tokyonight&border=7aa2f7&ring=7aa2f7&fire=7aa2f7" width="60%" />
 
 </div>
