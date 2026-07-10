@@ -1,80 +1,136 @@
-<h1 align="center">Hi 👋, I'm Sameer Ali Khan</h1>
-<p align="center">Cloud & DevOps Enthusiast | AWS • Linux • Docker • Jenkins • CI/CD</p>
+<div align="center">
 
-<p align="center">
-  <img src="profile.jpeg" width="180" style="border-radius:50%"/>
-</p>
+![Header](https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Sameer%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sameer-khan-9a6603249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sameeralikhan2160@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sameeralikhan2160-byte&color=blue"/>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Jenkins;Building+Scalable+Cloud+Infrastructure;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=github&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sameeralikhan2160-byte&color=7dd3fc&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/sameeralikhan2160-byte?color=7dd3fc&style=for-the-badge&label=Followers)
+
+</div>
+
+## 👨‍💻 Who I Am
+
+```typescript
+const sameerAliKhan = {
+  title: "Cloud & DevOps Engineer",
+  location: "Hyderabad, Telangana, India",
+  stack: {
+    cloud: ["AWS (EC2, VPC, IAM, S3, RDS, CloudWatch, Auto Scaling, SNS)"],
+    devops: ["Jenkins", "Docker", "Git", "GitHub", "CI/CD"],
+    scripting: ["Shell Scripting"],
+    databases: ["MySQL"],
+    os: ["Linux"],
+  },
+  launchedProjects: [
+    "Secure 3-Tier Web Architecture on AWS",
+    "EC2 Auto Scaling with ALB, CloudWatch & SNS",
+    "Jenkins Controller-Agent CI/CD Pipeline",
+  ],
+  certifications: ["AWS Certified Cloud Practitioner (CLF-C02)"],
+  status: "Actively building cloud infrastructure & automation projects",
+  openTo: ["Cloud Engineer roles", "DevOps Engineer roles", "Collaboration"],
+} as const;
+```
+
+## 🚀 Featured Projects
+
+### 🏗️ Secure and Highly Available 3-Tier Web Architecture on AWS
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=aws-3tier-architecture&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/aws-3tier-architecture)
+
+| Layer | Technology |
+|---|---|
+| Networking | Custom VPC, 2 Public + 2 Private Subnets, 2 AZs |
+| Compute | EC2, Bastion Host, Apache, PHP |
+| Load Balancing | Application Load Balancer |
+| Database | Amazon RDS (MySQL) |
+| Security | Security Groups, NAT Gateway |
+
+🔗 [Code](https://github.com/sameeralikhan2160-byte/aws-3tier-architecture)
 
 ---
 
-### 🚀 About Me
+### ⚙️ EC2 Auto Scaling with ALB, CloudWatch & SNS
 
-Cloud and DevOps enthusiast with hands-on experience in AWS cloud infrastructure, Linux administration, networking, and automation. Skilled in deploying secure, scalable architectures and comfortable across the DevOps toolchain — Git, Docker, CI/CD, Jenkins, and monitoring tools. Seeking an entry-level **Cloud Engineer** or **DevOps Engineer** role.
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=aws-ec2-autoscaling-monitoring&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/aws-ec2-autoscaling-monitoring)
 
-- 🎓 B.E. Information Technology, Lords Institute of Engineering and Technology (Osmania University) — 2022–2026, 78.7%
-- 🏅 AWS Certified Cloud Practitioner (CLF-C02)
-- 📖 AWS Certified Solutions Architect – Associate (SAA-C03) — *in progress*
-- 🛠️ Cloud and DevOps Internship — Full Stack Academy (Aug–Nov 2025)
-- 🌱 Currently learning **Terraform, advanced Jenkins pipelines & Kubernetes**
-- 📍 Hyderabad, Telangana, India
+| Layer | Technology |
+|---|---|
+| Compute | Custom AMI, Launch Template, Auto Scaling Group |
+| Load Balancing | Application Load Balancer |
+| Monitoring | CloudWatch Alarms (70%/30% CPU thresholds) |
+| Notifications | SNS (Email Subscriptions) |
+| Region | ap-south-1, 3 Availability Zones |
+
+🔗 [Code](https://github.com/sameeralikhan2160-byte/aws-ec2-autoscaling-monitoring)
 
 ---
 
-### 🧰 Technical Skills
+### 🔧 Jenkins Controller-Agent CI/CD Pipeline
 
-**Cloud (AWS)**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=jenkins-controller-agent-cicd&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/jenkins-controller-agent-cicd)
 
-*IAM • VPC • RDS • Route 53 • EBS • EFS • DynamoDB • Auto Scaling • Load Balancer*
+| Layer | Technology |
+|---|---|
+| CI/CD | Jenkins (Controller-Agent Architecture) |
+| Infrastructure | AWS EC2 (Distributed Build Nodes) |
+| Access | SSH Keypair Authentication |
+| Automation | Shell Scripting, Build Pipelines |
+
+🔗 [Code](https://github.com/sameeralikhan2160-byte/jenkins-controller-agent-cicd)
+
+## 🛠️ Tech Stack
+
+**Cloud**
+
+![AWS](https://skillicons.dev/icons?i=aws)
 
 **DevOps & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform_(learning)-9C9C9C?style=for-the-badge&logo=terraform&logoColor=white)
 
----
+![DevOps](https://skillicons.dev/icons?i=jenkins,docker,git,github,linux,bash)
 
-### 📌 Featured Projects
+**Databases**
 
-**[Secure & Highly Available 3-Tier Web Architecture on AWS](https://github.com/sameeralikhan2160-byte)**
-Custom VPC across 2 AZs with public/private subnets, Bastion Host, Application Load Balancer with health checks and sticky sessions, and an isolated RDS MySQL backend — designed for fault tolerance with no single point of failure.
+![DB](https://skillicons.dev/icons?i=mysql)
 
-**[EC2 Auto Scaling with ALB, CloudWatch & SNS](https://github.com/sameeralikhan2160-byte)**
-Self-healing web tier using a custom AMI, Launch Template, and Auto Scaling Group (min 3 / desired 3 / max 6) across 3 AZs. CloudWatch alarms trigger scale-out/in at 70%/30% CPU with cooldowns, verified via live load testing and SNS email alerts.
+## 📊 GitHub Stats
 
-**Linux Automation & DevOps Administration**
-Cron-based backup automation with 7-day retention and log rotation, group-based access control, UFW firewall hardening, and a custom resource-monitoring script with email alerts for high CPU/low disk space.
+<div align="center">
 
-**[Jenkins Master-Slave (Distributed Build) Setup on AWS EC2](https://github.com/sameeralikhan2160-byte/jenkins-master-slave)**
-Provisioned two EC2 instances and configured a Jenkins master-agent architecture from scratch — installed Jenkins via the official repo, generated SSH keypairs for passwordless master↔slave authentication, registered the agent as a Jenkins node, and verified a Freestyle job executing remotely on the slave via console output.
+<img src="https://github-readme-stats.vercel.app/api?username=sameeralikhan2160-byte&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralikhan2160-byte&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" width="48%" />
 
----
+<img src="https://streak-stats.demolab.com?user=sameeralikhan2160-byte&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="60%" />
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sameeralikhan2160-byte&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeralikhan2160-byte&layout=compact&theme=radical"/>
-</p>
+## 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeralikhan2160-byte&theme=radical"/>
-</p>
+<div align="center">
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=sameeralikhan2160-byte&theme=nord&no-frame=true&no-bg=true&row=1)
 
-<p align="center"><i>Automating everything, one pipeline at a time 🚀</i></p>
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sameeralikhan2160-byte&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-khan-9a6603249)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameeralikhan2160@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameeralikhan2160-byte)
+
+</div>
+
+![Footer](https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer)
