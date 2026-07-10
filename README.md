@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Sameer%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Sameer%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descAlign=50)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Jenkins;Building+Scalable+Cloud+Infrastructure;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
@@ -111,7 +111,7 @@ const sameerAliKhan = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sameeralikhan2160-byte&theme=nord&no-frame=true&no-bg=true&row=1)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=sameeralikhan2160-byte&theme=nord&no-frame=true&no-bg=true&row=1)
 
 </div>
 
@@ -133,4 +133,4 @@ const sameerAliKhan = {
 
 </div>
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer)
