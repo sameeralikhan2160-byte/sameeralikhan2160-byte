@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sameeralikhan2160-byte/sameeralikhan2160-byte/main/neon-header.svg" alt="Sameer Ali Khan" width="100%" />
+<img src="https://cdn.jsdelivr.net/gh/sameeralikhan2160-byte/sameeralikhan2160-byte@main/neon-header.svg" alt="Sameer Ali Khan" width="100%" />
 
 Open to full-time Cloud Engineer / DevOps Engineer roles
 
