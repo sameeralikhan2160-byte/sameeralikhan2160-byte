@@ -109,14 +109,6 @@ const sameerAliKhan = {
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=sameeralikhan2160-byte&theme=nord&no-frame=true&no-bg=true&row=1)
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">
