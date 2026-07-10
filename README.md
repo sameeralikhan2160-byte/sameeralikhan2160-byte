@@ -1,8 +1,6 @@
 <div align="center">
 
-# Sameer Ali Khan
-
-### Cloud & DevOps Engineer — AWS | Linux | Jenkins | Docker
+<img src="./neon-header.svg" alt="Sameer Ali Khan" width="100%" />
 
 Open to full-time Cloud Engineer / DevOps Engineer roles
 
