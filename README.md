@@ -41,7 +41,7 @@ const sameerAliKhan = {
 
 ### 🏗️ Secure and Highly Available 3-Tier Web Architecture on AWS
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=aws-3tier-architecture&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/aws-3tier-architecture)
+**📦 [sameeralikhan2160-byte/aws-3tier-architecture](https://github.com/sameeralikhan2160-byte/aws-3tier-architecture)**
 
 | Layer | Technology |
 |---|---|
@@ -57,7 +57,7 @@ const sameerAliKhan = {
 
 ### ⚙️ EC2 Auto Scaling with ALB, CloudWatch & SNS
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=aws-ec2-autoscaling-monitoring&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/aws-ec2-autoscaling-monitoring)
+**📦 [sameeralikhan2160-byte/aws-ec2-autoscaling-monitoring](https://github.com/sameeralikhan2160-byte/aws-ec2-autoscaling-monitoring)**
 
 | Layer | Technology |
 |---|---|
@@ -73,7 +73,7 @@ const sameerAliKhan = {
 
 ### 🔧 Jenkins Controller-Agent CI/CD Pipeline
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=sameeralikhan2160-byte&repo=jenkins-controller-agent-cicd&theme=nord&border_color=7dd3fc)](https://github.com/sameeralikhan2160-byte/jenkins-controller-agent-cicd)
+**📦 [sameeralikhan2160-byte/jenkins-controller-agent-cicd](https://github.com/sameeralikhan2160-byte/jenkins-controller-agent-cicd)**
 
 | Layer | Technology |
 |---|---|
